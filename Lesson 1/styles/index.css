@@ -1,0 +1,33 @@
+
+a {
+    letter-spacing: .5px;
+    padding: 0 10px;
+}
+
+
+button {
+    background: white;
+    border: 5px solid black;
+    border-radius: 5px;
+    padding: 10px 5px;
+}
+
+nav {
+    align-items: center;
+    display: flex;
+    font-family: sans-serif;
+    font-weight: bolder;
+    justify-content: space-between;
+    /* padding-top: 10px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 10px; */
+    /* padding: 10px 0 10px 0; */
+    padding: 50px 20px;
+
+
+}
+
+
+
+
